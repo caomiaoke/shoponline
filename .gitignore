@@ -48,6 +48,8 @@ Temporary Items
 .idea/**/gradle.xml
 .idea/**/libraries
 
+/.idea
+
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
 
@@ -188,3 +190,10 @@ ENV/
 # Rope project settings
 .ropeproject
 
+.gradle/
+.idea/artifacts/
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+src/
